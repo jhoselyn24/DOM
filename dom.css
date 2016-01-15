@@ -1,0 +1,12 @@
+     div{
+        	border: 5px solid purple;
+        	padding: 50px;
+        	background: #FFA07A;
+            
+        }
+        .contenido{
+            border: 3px dashed black;
+            text-align: center;
+            background: white;
+            padding: 15px;
+        }
